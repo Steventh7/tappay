@@ -1,0 +1,22 @@
+{
+  "card_input_card_number_placeholder": {
+    "en": "Card Number",
+    "ar": "رقم البطاقة"
+  },
+  "card_input_expiration_date_placeholder": {
+    "en": "MM/YY",
+    "ar": "شهر/سنة"
+  },
+  "card_input_cvv_placeholder": {
+    "en": "CVV",
+    "ar": "الرمز الأمني"
+  },
+  "card_input_cardholder_name_placeholder": {
+    "en": "Name On Card",
+    "ar": "الاسم الموجود في البطاقة"
+  },
+  "cvv_digit_required": {
+    "en": "<digit> digit CVV required",
+    "ar": "مطلوب <digit> أرقام لرمز التحقق"
+  }
+}
