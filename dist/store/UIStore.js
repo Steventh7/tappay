@@ -79,7 +79,7 @@ var UIStore = function () {
 
       if (this.RootStore.configStore.notifications !== "standard") {
         var el = document.getElementById(this.RootStore.configStore.notifications);
-        el.innerHTML = "";
+        el?.innerHTML = "";
       } else {
         this.errorHandler.visable = false;
         this.errorHandler = {};
